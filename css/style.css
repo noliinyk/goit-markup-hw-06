@@ -591,6 +591,8 @@ right: 0;
     border-radius: 4px;
     background-color: #2F303A;
     margin-right: 15px;
+
+    outline: none;
   }
 
   .footer-forms input::placeholder{
